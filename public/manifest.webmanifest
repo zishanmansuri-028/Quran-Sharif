@@ -1,0 +1,20 @@
+{
+  "name": "Quran Sharif — Arabic Tilawat + Hinglish Bolkar Tarjuma",
+  "short_name": "Quran Sharif",
+  "description": "Holy Quran 30 Paare aur 114 Surah. Har aayat ki Mishary Alafasy tilawat aur Shamshad Ali Khan ka bolkar tarjuma, Everyday Duas aur Sunnah Guide Hinglish me.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F6F1E5",
+  "theme_color": "#174C3A",
+  "categories": ["books", "education", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
